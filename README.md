@@ -6,16 +6,17 @@
 ## Demo Video Google Drive Link
 
 - [==](==)
-- [Demo Video](==) 
+- [Demo Video](**) 
 
 ## Application Screenshot
 
-![screenshot](==)
+![screenshot](__)
 
 
 # Area of improvemnet
 
 - npm start not working properly.
+- app connection problem need to be identified.
 - Heroku deployment not working properly.
 
 # Github Repo URL
@@ -24,4 +25,4 @@
 
 # Live URL
 
-- [--](--)
+- [https://techyvlog.herokuapp.com/](https://techyvlog.herokuapp.com/)
