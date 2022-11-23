@@ -12,6 +12,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines" : { 
+    "node" : "16.16.0", 
+    "npm" : "8.11.0"
+  },
   "name": "techyvlog",
   "description": "",
   "version": "1.0.0",
@@ -26,4 +30,5 @@
     "url": "https://github.com/jchoi10/techyVlog/issues"
   },
   "homepage": "https://github.com/jchoi10/techyVlog#readme"
+  
 }
